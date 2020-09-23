@@ -1,6 +1,4 @@
-# Saga
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5460466.png" width="516" height="138" alt="SAGA" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3617972915">Edit Image</a>
+<img src="https://github.com/wolverine3301/Saga/blob/master/logo.png" width="516" height="138">
 
 ### What is it?
 Saga is a data manipulation tool aimed to be similar to pandas in python in usability.
